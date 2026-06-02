@@ -46,7 +46,6 @@ Currently working in Japan, supporting cloud-native telecommunications platforms
 ### Automation
 
 * Ansible
-* Shell Scripting
 
 ## Featured Projects
 
