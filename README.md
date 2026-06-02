@@ -37,7 +37,7 @@ Currently working at Ericsson Japan supporting cloud-native telecom environments
 - Git
 
 ### Cloud
-- AWS (Hands-on Experience)
+- AWS (Foundational Knowledge)
 
 ## Certifications
 
