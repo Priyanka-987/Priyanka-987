@@ -4,40 +4,33 @@ Cloud Support Engineer with 8+ years of experience in Cloud-Native Infrastructur
 
 Currently working at Ericsson Japan supporting cloud-native telecom environments and Kubernetes-based infrastructure platforms.
 
-## Technical Skills
+## Skills
 
-### Cloud & Container
+### Cloud & Container Platforms
+
 - Kubernetes
 - Containerd
 - Helm
-- Cloud-Native Infrastructure
+- AWS (Foundational Knowledge)
 
 ### Linux
-- Ubuntu
-- CentOS
-- Redhat
+
 - System Administration
+- Performance Analysis
 - Troubleshooting
 
 ### Networking
+
 - TCP/IP
-- Routing & Switching
+- Routing
 - BGP
-- DNS
-- VPN
+- Connectivity Analysis
 
-### Monitoring & Operations
-- Zabbix
-- Nagios
-- Cacti
-- Centreon
+### Operations
 
-### Automation
-- Ansible
-- Git
-
-### Cloud
-- AWS (Foundational Knowledge)
+- Root Cause Analysis
+- Incident Investigation
+- Infrastructure Support
 
 ## Certifications
 
